@@ -1,3 +1,8 @@
+# self backup folder and files
+__kk__*.*
+__kk__/
+*.bak
+
 # Logs
 logs
 *.log
